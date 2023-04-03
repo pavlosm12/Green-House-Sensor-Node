@@ -6,7 +6,7 @@
  
  ## Overview
  
- An ESP32 power sensor node for Greenhouse data logging of Temperature, Humidity, Ambient Light.
+ An ESP32 powered sensor node for Greenhouse data logging of Temperature, Humidity, Ambient Light.
  
  • ESP32-C3-MINI-1-N4
  
