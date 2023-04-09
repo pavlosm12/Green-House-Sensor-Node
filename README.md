@@ -1,8 +1,8 @@
 # ESP32 Green House Sensor Node
-![3D view](https://user-images.githubusercontent.com/95383090/229375834-5642b627-24f3-4291-9ed7-a0ae0afbcbc8.png)
+
+![3D View](https://user-images.githubusercontent.com/95383090/230792590-40fd404d-087f-4cdb-9712-f6d4d5ffccc1.png)
 
 
- 
  ## Overview
   ESP32-C3-MINI-1-N4 powered Sensor Node for Greenhouse data logging. Equipped with Temperature/Humidity sensor (I2C), Gas sensor (I2C), Ambient Light sensor (Analog) and UART to RS232 converter.
  
@@ -18,6 +18,12 @@
  
  
  ## Revisions
+ 
+ ### <b> 2.0 </b>
+ 
+ • Added decoupling capacitors to U4, U5, U6.
+ • Rearranged bootstrapping pins.
+ 
  
  ### <b> 1.0 </b>
  
