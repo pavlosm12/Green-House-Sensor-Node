@@ -22,6 +22,7 @@
  ### <b> 2.0 </b>
  
  • Added decoupling capacitors to U4, U5, U6.
+ 
  • Rearranged bootstrapping pins.
  
  
