@@ -29,3 +29,23 @@
  ### <b> 1.0 </b>
  
  • Initial Release.
+
+ ## References
+ 
+ ### <b> Hardware </b>
+ 
+ [1] "How to Make Custom ESP32 Board in 3 Hours | Full Tutorial", Youtube, Robert Feranec,
+  https://www.youtube.com/watch?v=S_p0YV-JlfU&t=9782s&ab_channel=RobertFeranec (Accessed 2023)
+ [2] "ESP32 + PCB Antenna Hardware Design Tutorial - Phil's Lab #90", Youtube, Phil's Lab,
+  https://www.youtube.com/watch?v=yxU_Kw2de08  (Accessed 2023)
+ 
+  ### <b> Firmware </b>
+  
+  [3] "AGS02MA", Github, RobTilaart, 
+   https://github.com/RobTillaart/AGS02MA (Accessed 2023)
+  [4] "SHTC3", Github, SparkFun, 
+   https://github.com/RobTillaart/AGS02MA (Accessed 2023)
+  [5] "ESP32: Webserver, Websockets and JSON (WiFi Part 2) - Arduino", Youtube, MoThunderz,
+   https://www.youtube.com/watch?v=15X0WvGaVg8&t=844s&ab_channel=MoThunderz (Accessed 2023)
+  [6] "FIR filter", Github, Phil's Lab, 
+   https://github.com/pms67/LittleBrain-STM32F4-Sensorboard/blob/master/Firmware/Core/Src/FIRFilter.c
