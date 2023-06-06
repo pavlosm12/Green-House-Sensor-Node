@@ -51,7 +51,7 @@
    
    
   [4] "SHTC3", Github, SparkFun, 
-   https://github.com/RobTillaart/AGS02MA (Accessed 2023)
+   https://github.com/sparkfun/SparkFun_SHTC3_Arduino_Library (Accessed 2023)
    
    
   [5] "ESP32: Webserver, Websockets and JSON (WiFi Part 2) - Arduino", Youtube, MoThunderz,
